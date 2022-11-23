@@ -1,3 +1,4 @@
+package Conditionals;
 import java.util.Scanner;
 
 // desafio para imprimir número conforme dia usando else if para treino de estrutura de controles

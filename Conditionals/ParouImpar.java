@@ -1,3 +1,4 @@
+package Conditionals;
 import javax.swing.JOptionPane;
 
 public class ParouImpar {
