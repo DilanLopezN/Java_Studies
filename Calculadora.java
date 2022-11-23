@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calc {
+public class Calculadora {
   public static void main(String[] args) {
     Scanner entry = new Scanner(System.in);
     System.out.print("Informe o número para calculo: ");
