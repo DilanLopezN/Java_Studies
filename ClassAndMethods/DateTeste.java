@@ -6,7 +6,7 @@ public static void main(String[] args) {
  data.day = 24;
  data.mouth = 11;
  data.year = 2022;
- String fullyear = data.day + "/" + data.mouth + "/" + data.year;
-   System.out.println(fullyear);
+ 
+   System.out.println(data.dataComplete());
 }
 }
