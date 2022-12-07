@@ -6,7 +6,7 @@ public class Jogador {
 
   boolean andar(EnumDirecao direcao) {
     
-      switch (direcao) {
+     /*  switch (direcao) {
         case NORTE:
           y--;
           break;
@@ -22,7 +22,7 @@ public class Jogador {
         default: 
           break;
       }
-
+*/
 
     return true;
 
